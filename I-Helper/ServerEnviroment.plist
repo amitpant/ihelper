@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>service_url</key>
+	<string>http://192.168.1.139/~priya/i_helper/api/customer/</string>
+	<key>live_service_url</key>
+	<string>http://122.160.42.242/~priya/i_helper/api/customer/</string>
+</dict>
+</plist>

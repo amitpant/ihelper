@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/ChatViewController.swift"
+            timestampString = "524655898.032902"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "298"
+            endingLineNumber = "298"
+            landmarkName = "deleteChatImage(forPhotoMessageWithKey:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/SearchCategoryTableViewController.swift"
+            timestampString = "524661860.662529"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/SearchCategoryTableViewController.swift"
+            timestampString = "524667457.188486"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/SearchCategoryTableViewController.swift"
+            timestampString = "524667457.188486"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/ChatViewController.swift"
+            timestampString = "524738788.343582"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "365"
+            endingLineNumber = "365"
+            landmarkName = "imagePickerController(_:didFinishPickingMediaWithInfo:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.ChatViewController.imagePickerController (__ObjC.UIImagePickerController, didFinishPickingMediaWithInfo : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/ChatViewController.swift"
+                  timestampString = "525097120.899168"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "366"
+                  endingLineNumber = "366"
+                  offsetFromSymbolStart = "753">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.ChatViewController.(imagePickerController (__ObjC.UIImagePickerController, didFinishPickingMediaWithInfo : Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; ()).(closure #1)"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/ChatViewController.swift"
+                  timestampString = "525097120.900917"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "368"
+                  endingLineNumber = "368"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/NetworkClient.swift"
+            timestampString = "524738840.598367"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "uploadImage(apiname:params:imageData:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.NetworkClient.uploadImage (apiname : Swift.String, params : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageData : Foundation.Data, success : (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; (), failure : (I_Helper.NetworkError) -&gt; ()) -&gt; ()"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/NetworkClient.swift"
+                  timestampString = "525097120.905153"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "141"
+                  endingLineNumber = "141"
+                  offsetFromSymbolStart = "1892">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.NetworkClient.(uploadImage (apiname : Swift.String, params : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageData : Foundation.Data, success : (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; (), failure : (I_Helper.NetworkError) -&gt; ()) -&gt; ()).(closure #3)"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/NetworkClient.swift"
+                  timestampString = "525097120.906994"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/MyAccountTableViewController.swift"
+            timestampString = "524738623.906126"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "updateUserInfo(user_id:name:email:completionHandler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/NetworkClient.swift"
+            timestampString = "524738843.782884"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "143"
+            endingLineNumber = "143"
+            landmarkName = "uploadImage(apiname:params:imageData:success:failure:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.NetworkClient.(uploadImage (apiname : Swift.String, params : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageData : Foundation.Data, success : (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; (), failure : (I_Helper.NetworkError) -&gt; ()) -&gt; ()).(closure #3)"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/NetworkClient.swift"
+                  timestampString = "525097120.914675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.NetworkClient.(uploadImage (apiname : Swift.String, params : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, imageData : Foundation.Data, success : (Swift.Dictionary&lt;Swift.String, Any&gt;) -&gt; (), failure : (I_Helper.NetworkError) -&gt; ()) -&gt; ()).(closure #3)"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/NetworkClient.swift"
+                  timestampString = "525097120.917376"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "143"
+                  endingLineNumber = "143"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "I-Helper/NetworkClient.swift"
+            timestampString = "524738852.400757"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "createBody(parameters:boundary:data:mimeType:filename:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.NetworkClient.createBody (parameters : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, boundary : Swift.String, data : Foundation.Data, mimeType : Swift.String, filename : Swift.String) -&gt; Foundation.Data"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/NetworkClient.swift"
+                  timestampString = "525097120.924698"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "465">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "I_Helper.NetworkClient.createBody (parameters : Swift.Optional&lt;Swift.Dictionary&lt;Swift.String, Any&gt;&gt;, boundary : Swift.String, data : Foundation.Data, mimeType : Swift.String, filename : Swift.String) -&gt; Foundation.Data"
+                  moduleName = "I-Helper"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/IOS/Documents/workarea/I-Helper/I-Helper/NetworkClient.swift"
+                  timestampString = "525097120.926613"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "542">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
